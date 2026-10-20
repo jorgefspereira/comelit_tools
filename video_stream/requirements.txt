@@ -1,0 +1,4 @@
+# Standalone tools: use a dedicated virtual environment, not Home Assistant.
+aiortc==1.15.0
+av==17.1.0
+aiohttp>=3.9,<4
