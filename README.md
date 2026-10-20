@@ -2,7 +2,7 @@
 
 Standalone Python tools for a Comelit ViP entrance camera and door-release
 controls. These clients established the protocol used by the companion
-[Comelit Intercom Home Assistant integration](https://github.com/jorgefspereira/comelit_intercom).
+[Comelit Intercom Home Assistant integration](https://github.com/jorgefspereira/home_assistant_comelit_intercom).
 They run independently of Home Assistant.
 
 This is an **unofficial project**, not affiliated with or supported by Comelit.
